@@ -1,18 +1,30 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    animate-sass (0.1.1)
+      compass (>= 0.11.5)
+    chunky_png (1.2.8)
+    compass (0.12.2)
+      chunky_png (~> 1.2)
+      fssm (>= 0.2.7)
+      sass (~> 3.1)
     directory_watcher (1.4.1)
-    redcarpet (2.2.2)
+    fssm (0.2.10)
+    sass (3.2.7)
     slop (3.3.2)
     stasis (0.2.0)
       directory_watcher (= 1.4.1)
       slop (= 3.3.2)
       tilt (= 1.3.3)
+    stasis-compass (0.1.0)
+      compass (>= 0.10.1)
+      stasis (>= 0.1.9)
     tilt (1.3.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  redcarpet
+  animate-sass
   stasis
+  stasis-compass

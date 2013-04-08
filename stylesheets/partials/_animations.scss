@@ -1,0 +1,33 @@
+@import "compass/css3/shared";
+
+@mixin blink {
+  0% {
+    opacity: 1.0;
+  }
+  45% {
+    opacity: 0.9;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@if $experimental-support-for-webkit {
+  @-webkit-keyframes blink { @include blink; }
+}
+@if $experimental-support-for-khtml {
+  @-khtml-keyframes blink { @include blink; }
+}
+@if $experimental-support-for-mozilla {
+  @-moz-keyframes blink { @include blink; }
+}
+@if $experimental-support-for-microsoft {
+  @-ms-keyframes blink { @include blink; }
+}
+@if $experimental-support-for-opera {
+  @-o-keyframes blink { @include blink; }
+}
+@keyframes blink { @include blink; }

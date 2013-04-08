@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= @title %></title>
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+  <%= render "partials/_css.html.erb" %>
+  <%= render "partials/_iefixes.html.erb" %>
+</head>
+<body>
+<div id="container">
+
+<%= render "partials/_header.html.erb" %>
+
+<section>
+  
+<%= yield %>
+
+</section>
+
+<%= render "partials/_footer.html.erb" %>
+
+</div>
+  
+<%= render "partials/_analytics.html.erb" %>
+</body>
+</html>
