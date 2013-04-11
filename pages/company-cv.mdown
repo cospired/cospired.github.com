@@ -46,18 +46,29 @@ Our Projects
 Our Core Team
 =============
 
+# Where do I come from (education and work-wise)
+# What cool projects did I do before cospired
+# Areas of expertise and interest
+
+# maybe 1 sentence about personal stuff
+
 Philipp Fehre
 -------------
+
 
 Dirk Haage
 ----------
 
-Where do I come from (education and work-wise)
-What cool projects did I do before cospired
-Areas of expertise and interest
+Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU Munich, he worked on several national and european research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
 
-maybe 1 sentence about personal stuff
+Previous to founding Cospired,  
 
+  freelancing IT infrastructure projects for companies with up to 600 work stations, (Hypovereinsbank, Pixelpark)
+  development of web services (during the pre web-API time) (log-n-go, jamba)
+
+Workflow development, with a focus on user interaction
+
+interested in UI Design and User experience
 
 Jan Schmidle
 ------------
