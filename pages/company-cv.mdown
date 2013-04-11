@@ -1,27 +1,46 @@
 Cospired
 ========
 
-Text about cospired
+founded in January 2012, cospired is a Zusammenschluss von 3 IT engineers um gemeinsam coole Projekte realisieren zu koennen.
+
+
+mit hoher webaffinitaet
+
+active in communties  Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), Conference Organization like UX Munich (http://uxmunich.com)
 
 We specialize in
 ----------------
+
+Backend development API-Design Workflow-Design
+
+we use technologies that fit the need/aufgabe
+
+TDD
+BDD
+extreme programming/ pairing
+agile development
+
+service- and object-oriented architectures
+
+recently used technologies node.js, rails, cassandra, mongoDB, redis
+
 
 core specialties, compentencies, focus
 
 Our Projects
 ------------
 
-- Carpooling 
+- Carpooling - redesign and implementation of the search backend to support fast and scalable geo-search
 
-- Carpooling/Daimler
+- Carpooling/Daimler - API Design to support external services and applications
 
-- Team Internet
+- Team Internet - high-scalable ad-serving backend for DNTX (dntx.com)
 
-- Femory - SSO Service Design and Implementation
+- Femory - SSO Service Design and Implementation for web and iOS applications
 
-- Femory - Rescue Project
+- Femory - payment service integration (Paypal and invoicing)
 
-- EBD
+- EBD - Design and implementation of a customer social networking (http://www.partnering360.com)
 
 
 Our Core Team
