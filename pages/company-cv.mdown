@@ -1,0 +1,44 @@
+Cospired
+========
+
+Text about cospired
+
+We specialize in
+----------------
+
+core specialties, compentencies, focus
+
+Our Projects
+------------
+
+- Carpooling 
+
+- Carpooling/Daimler
+
+- Team Internet
+
+- Femory - SSO Service Design and Implementation
+
+- Femory - Rescue Project
+
+- EBD
+
+
+Our Core Team
+=============
+
+Philipp Fehre
+-------------
+
+Dirk Haage
+----------
+
+Where do I come from (education and work-wise)
+What cool projects did I do before cospired
+Areas of expertise and interest
+
+maybe 1 sentence about personal stuff
+
+
+Jan Schmidle
+------------
