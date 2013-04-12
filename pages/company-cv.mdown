@@ -1,36 +1,32 @@
 Cospired
 ========
 
-always inspired by new web-technologies and interesting web-projects the three IT-engineers Dirk Haage, Jan Schmidle and Philipp Fehre
-founded cospired in january 2012. driven by curiosity we love to use new web-technologies and always try to push our boundaries.
+Always inspired by new web technologies and interesting web projects, the three IT engineers Dirk Haage, Jan Schmidle and Philipp Fehre founded cospired in January 2012. Driven by curiosity we love to use new web technologies and always try to push our boundaries.
 
-Combining the experience of the three founders we support our customers in
+Combining the experience of the three founders, we support our customers in
 ihren projekten in dem sie neuland betreten und stehen ihnen mit unserer erfahrung zur seite
 
-We always liked to share our wisdom so all three of us a also an active part of the munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo munich, Conference Organization like UX Munich (http://uxmunich.com) are just some of the munich based usergroups we are involved.
+We like to share our wisdom, so all three of us are also an active part of the Munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo Munich, Conference Organization like UX Munich (http://uxmunich.com) are some of the Munich based user groups we are involved.
 
-It is our passion to work with people inspired by their ideas, help them to cooparativly evolve those and finally translate those ideas to the code that drives it.
+It is our passion to work with people inspired by their ideas, help them to cooperatively evolve and finally translate those ideas to the code that drives them.
 
 We specialize in
 ----------------
 
-Backend development API-Design Workflow-Design
+- Backend development
+- API-Design
+- Workflow-Design
+- service- and object-oriented architectures
 
-we use technologies that fit the need/aufgabe
+Our practice in are based on
 
-TDD
-BDD
-extreme programming/ pairing
-agile development
+- TDD (test driven development),
+- BDD (behavior driven development),
+- extreme programming/ pair programming,
+- agile development.
 
-service- and object-oriented architectures
-
-recently used technologies node.js, rails, cassandra, mongoDB, redis
-
-
-core specialties, compentencies, focus
-
-experience in many of the surrounding technologies HTML5, SASS/CSS, ruby, javascript, PHP, python, MySQL, ...
+We use the technologies that fit the purpose. Some of the recently used technologies are
+node.js, rails, cassandra, mongoDB, redis, accompanied with experience in many of the surrounding technologies like HTML5, SASS/CSS, ruby, javascript, PHP, python, MySQL.
 
 Our Projects
 ------------
@@ -39,7 +35,7 @@ Our Projects
 
 - Carpooling/Daimler - API Design to support the integration in external services and applications
 
-- Team Internet - high-scalable ad-serving and tracking backend for DNTX (dntx.com)
+- Team Internet - Architecture and initial development of the high-scalable ad-serving and tracking backend of DNTX (dntx.com)
 
 - Femory - SSO Service Design and Implementation for web and iOS applications
 
@@ -51,41 +47,30 @@ Our Projects
 Our Core Team
 =============
 
-# Where do I come from (education and work-wise)
-# What cool projects did I do before cospired
-# Areas of expertise and interest
-
-# maybe 1 sentence about personal stuff
-
 Philipp Fehre
 -------------
-Philipp, like every passionate developer, is always drawn towards new and interesting things. He finished his high-school diploma during a 1 year stay in Michigan (US), where he also found great passion engineering problems, which later developed into a great passion for software engineering and system architekture design. He is passionate about building flexible and scalable system. Through using best development practices like XP, TDD, BDD, he keeps systems ready for changes which ineventible occur during a product workflow.
+Philipp, like every enthusiastic developer, is always drawn towards new and interesting things. He finished his high-school diploma during a one-year stay in Michigan (US), where he was eager to solve engineering problems, which later developed into a great passion for software engineering and system architecture design. He strives to build flexible and scalable systems. Through using best development practices like XP, TDD, BDD, he keeps systems ready for changes which inevitable occur during a product's lifetime.
 
-Before co-founding cospired, he worked at the TUM as a research assistant, while freelancing on the side.
+Before co-founding cospired, he worked at the TUM as a research assistant, while freelancing on the side. Some of his projects before cospired include:
 
-Some of his projects before cospired include:
-  - Setting up a site-to-site network connection for Xavo AG
-  - Study on possible consolidation of datacenters via Virtualmachine live migration for Bundesagentur für Arbeit
+  - Setting up a site-to-site network for Xavo AG
+  - Study on possible consolidation of data centers via virtual machine live migration for Bundesagentur für Arbeit, Nürnberg
   - Development for inmexa.de
   - Development for the Amazon Facebook Fanpage
   - iOS and Backend Development for Grouptime
 
-He is also an active member of the OpenSource community, contributing to different Projects on Github, and talking about development related topics at Usergroups like
-Ruby Shift Munich, and MunichJS.
+He is also an active member of the OpenSource community, contributing to different Projects on Github, and talking about development related topics at Usergroups like Ruby Shift Munich and MunichJS.
 
 Dirk Haage
 ----------
 
-Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU Munich, he worked on several national and european research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
+Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU Munich, he worked on several national and European research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
 
-Previous to founding Cospired,
+Prior to founding cospired, he worked freelance on multiple projects including tasks like
+ - planning and execution of the IT infrastructure for companies with up to 600 work stations, (Hypovereinsbank, Pixelpark)
+ - development of web services (during the pre web-API time) (log-n-go, jamba)
 
-  freelancing IT infrastructure projects for companies with up to 600 work stations, (Hypovereinsbank, Pixelpark)
-  development of web services (during the pre web-API time) (log-n-go, jamba)
-
-Workflow development, with a focus on user interaction
-
-interested in UI Design and User experience
+His main field of work within cospired is workflow development with a focus on user interaction. Accompanied with a keen interest in UI Design and User experience, he keeps the user in the view and pushes the envelope of what the technologies can do.
 
 Jan Schmidle
 ------------
