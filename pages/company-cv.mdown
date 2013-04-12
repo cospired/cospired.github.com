@@ -1,12 +1,15 @@
 Cospired
 ========
 
-founded in January 2012, cospired is a Zusammenschluss von 3 IT engineers um gemeinsam coole Projekte realisieren zu koennen.
+always inspired by new web-technologies and interesting web-projects the three IT-engineers Dirk Haage, Jan Schmidle and Philipp Fehre
+founded cospired in january 2012. driven by curiosity we love to use new web-technologies and always try to push our boundaries.
 
+Combining the experience of the three founders we support our customers in 
+ihren projekten in dem sie neuland betreten und stehen ihnen mit unserer erfahrung zur seite
 
-mit hoher webaffinitaet
+We always liked to share our wisdom so all three of us a also an active part of the munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo munich, Conference Organization like UX Munich (http://uxmunich.com) are just some of the munich based usergroups we are involved.
 
-active in communties  Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), Conference Organization like UX Munich (http://uxmunich.com)
+It is our passion to work with people inspired by their ideas, help them to cooparativly evolve those and finally translate those ideas to the code that drives it.
 
 We specialize in
 ----------------
@@ -27,20 +30,22 @@ recently used technologies node.js, rails, cassandra, mongoDB, redis
 
 core specialties, compentencies, focus
 
+experience in many of the surrounding technologies HTML5, SASS/CSS, ruby, javascript, PHP, python, MySQL, ...
+
 Our Projects
 ------------
 
-- Carpooling - redesign and implementation of the search backend to support fast and scalable geo-search
+- Carpooling - redesign and implementation of the search backend to support a fast and scalable search service
 
-- Carpooling/Daimler - API Design to support external services and applications
+- Carpooling/Daimler - API Design to support the integration in external services and applications
 
-- Team Internet - high-scalable ad-serving backend for DNTX (dntx.com)
+- Team Internet - high-scalable ad-serving and tracking backend for DNTX (dntx.com)
 
 - Femory - SSO Service Design and Implementation for web and iOS applications
 
 - Femory - payment service integration (Paypal and invoicing)
 
-- EBD - Design and implementation of a customer social networking (http://www.partnering360.com)
+- EBD - Design and implementation of a domain specific social networking platform (http://www.partnering360.com)
 
 
 Our Core Team
@@ -61,3 +66,24 @@ maybe 1 sentence about personal stuff
 
 Jan Schmidle
 ------------
+IT-Security, System Administration,  Internetworking
+System/Service Architecture
+
+Strong intrest in backend technologies and service architecture
+
+
+Masters in Computer Science ( Application Architecture )
+
+Resarch:
+Clustering in Webhosting for Hosting Company 1&1
+Analysis of Web Application Filters for Cirosec
+
+
+Working as a freelance web developer 2008 - 2011 before he started Cospired as one of the founders
+DBBL
+Giving lectures for Communication- and Networktechnology at the DHBW
+Secondy
+Agenturen 12bis3 rnm3 bfactor ...
+rexan
+mfg
+shakennotstirred
