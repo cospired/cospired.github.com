@@ -4,7 +4,7 @@ Cospired
 always inspired by new web-technologies and interesting web-projects the three IT-engineers Dirk Haage, Jan Schmidle and Philipp Fehre
 founded cospired in january 2012. driven by curiosity we love to use new web-technologies and always try to push our boundaries.
 
-Combining the experience of the three founders we support our customers in 
+Combining the experience of the three founders we support our customers in
 ihren projekten in dem sie neuland betreten und stehen ihnen mit unserer erfahrung zur seite
 
 We always liked to share our wisdom so all three of us a also an active part of the munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo munich, Conference Organization like UX Munich (http://uxmunich.com) are just some of the munich based usergroups we are involved.
@@ -59,14 +59,26 @@ Our Core Team
 
 Philipp Fehre
 -------------
+Philipp, like every passionate developer, is always drawn towards new and interesting things. He finished his high-school diploma during a 1 year stay in Michigan (US), where he also found great passion engineering problems, which later developed into a great passion for software engineering and system architekture design. He is passionate about building flexible and scalable system. Through using best development practices like XP, TDD, BDD, he keeps systems ready for changes which ineventible occur during a product workflow.
 
+Before co-founding cospired, he worked at the TUM as a research assistant, while freelancing on the side.
+
+Some of his projects before cospired include:
+  - Setting up a site-to-site network connection for Xavo AG
+  - Study on possible consolidation of datacenters via Virtualmachine live migration for Bundesagentur für Arbeit
+  - Development for inmexa.de
+  - Development for the Amazon Facebook Fanpage
+  - iOS and Backend Development for Grouptime
+
+He is also an active member of the OpenSource community, contributing to different Projects on Github, and talking about development related topics at Usergroups like
+Ruby Shift Munich, and MunichJS.
 
 Dirk Haage
 ----------
 
 Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU Munich, he worked on several national and european research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
 
-Previous to founding Cospired,  
+Previous to founding Cospired,
 
   freelancing IT infrastructure projects for companies with up to 600 work stations, (Hypovereinsbank, Pixelpark)
   development of web services (during the pre web-API time) (log-n-go, jamba)
@@ -80,7 +92,7 @@ Jan Schmidle
 Grew up in the beautiful area of Breisgau near the swiss and french border and studied in the heart of the black forest in the small city of Furtwangen. Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture.
 Beside his research topics "Clustering in Webhosting (1and1)" and "Analysis of Web Application Filters (Cirosec)" he startet early to gain experience in the junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department.
 
-Since then he was freelancing as a developer for different agencies and projects and gave lectures on Communication- and Networktechnology at the DHBW in Horb. 
+Since then he was freelancing as a developer for different agencies and projects and gave lectures on Communication- and Networktechnology at the DHBW in Horb.
 
 
 Notes:
