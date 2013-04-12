@@ -77,19 +77,16 @@ interested in UI Design and User experience
 
 Jan Schmidle
 ------------
-IT-Security, System Administration,  Internetworking
-System/Service Architecture
+Grew up in the beautiful area of Breisgau near the swiss and french border and studied in the heart of the black forest in the small city of Furtwangen. Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture.
+Beside his research topics "Clustering in Webhosting (1and1)" and "Analysis of Web Application Filters (Cirosec)" he startet early to gain experience in the junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department.
 
-Strong intrest in backend technologies and service architecture
-
-
-Masters in Computer Science ( Application Architecture )
-
-Resarch:
-Clustering in Webhosting for Hosting Company 1&1
-Analysis of Web Application Filters for Cirosec
+Since then he was freelancing as a developer for different agencies and projects and gave lectures on Communication- and Networktechnology at the DHBW in Horb. 
 
 
+Notes:
+Likes to network
+
+Relaunch of DBBL - The german basketball league of the women
 Working as a freelance web developer 2008 - 2011 before he started Cospired as one of the founders
 DBBL
 Giving lectures for Communication- and Networktechnology at the DHBW
