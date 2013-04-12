@@ -56,6 +56,7 @@ Before co-founding cospired, he worked at the TUM as a research assistant, while
 
   - Setting up a site-to-site network for Xavo AG
   - Study on possible consolidation of data centers via virtual machine live migration for Bundesagentur für Arbeit, Nürnberg
+  - Development of a high performance network monitoring system for Bundesagentur für Arbeit, Nürnberg in cooperation with the TUM
   - Development for inmexa.de
   - Development for the Amazon Facebook Fanpage
   - iOS and Backend Development for Grouptime
@@ -75,7 +76,7 @@ His main field of work within cospired is workflow development with a focus on u
 
 Jan Schmidle
 ------------
-Always curious about the technologies driving the web, Jan was eager to learn what is behind the curtain and loved playing around with the different technologies involved. Grewing up in the beautiful area of Breisgau near the swiss and french border, he studied Computer-Networking in the heart of the black forest in the small city of Furtwangen. During his study he gained experience in the local junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department and worked on several smaller projects. He also worked as CTO of a small Hosting company based near Trier. 
+Always curious about the technologies driving the web, Jan was eager to learn what is behind the curtain and loved playing around with the different technologies involved. Grewing up in the beautiful area of Breisgau near the swiss and french border, he studied Computer-Networking in the heart of the black forest in the small city of Furtwangen. During his study he gained experience in the local junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department and worked on several smaller projects. He also worked as CTO of a small Hosting company based near Trier.
 
 Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture and likes to be part of the creative and inspiering comunities surrounding web based technologies.
 
