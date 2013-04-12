@@ -89,21 +89,14 @@ interested in UI Design and User experience
 
 Jan Schmidle
 ------------
-Grew up in the beautiful area of Breisgau near the swiss and french border and studied in the heart of the black forest in the small city of Furtwangen. Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture.
-Beside his research topics "Clustering in Webhosting (1and1)" and "Analysis of Web Application Filters (Cirosec)" he startet early to gain experience in the junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department.
+Always curious about the technologies driving the web, Jan was eager to learn what is behind the curtain and loved playing around with the different technologies involved. Grewing up in the beautiful area of Breisgau near the swiss and french border, he studied Computer-Networking in the heart of the black forest in the small city of Furtwangen. During his study he gained experience in the local junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department and worked on several smaller projects. He also worked as CTO of a small Hosting company based near Trier. 
 
-Since then he was freelancing as a developer for different agencies and projects and gave lectures on Communication- and Networktechnology at the DHBW in Horb.
+Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture and likes to be part of the creative and inspiering comunities surrounding web based technologies.
 
-
-Notes:
-Likes to network
-
-Relaunch of DBBL - The german basketball league of the women
-Working as a freelance web developer 2008 - 2011 before he started Cospired as one of the founders
-DBBL
-Giving lectures for Communication- and Networktechnology at the DHBW
-Secondy
-Agenturen 12bis3 rnm3 bfactor ...
-rexan
-mfg
-shakennotstirred
+Before co-founding cospired GmbH he was freelancing as a developer for different agencies and projects.
+    - Lecturer on communication- and networktechnology at the DHBW in Horb.
+    - Research on clustering for web-hosting application (1and1)
+    - Analysis of web application filters WAF (Cirosec)
+    - Relaunch of DBBL - the german basketball league of the women
+    - Involved in several startups like a domain reselling platform and estimation of residual value of handys platform
+    - Certified commissioner for data protection (Datenschutzbeauftragter)
