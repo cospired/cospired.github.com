@@ -3,7 +3,8 @@ Cospired
 
 Always inspired by new web technologies and interesting web projects, the three IT engineers Dirk Haage, Jan Schmidle and Philipp Fehre founded cospired in January 2012. Driven by curiosity we love to use new web technologies and always try to push our boundaries.
 
-Combining the experience of the three founders, we support our customers in
+Combining the experience of the three founders, we support our customers in their journey into uncharted waters with our experience.
+
 ihren projekten in dem sie neuland betreten und stehen ihnen mit unserer erfahrung zur seite
 
 We like to share our wisdom, so all three of us are also an active part of the Munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo Munich, Conference Organization like UX Munich (http://uxmunich.com) are some of the Munich based user groups we are involved.
