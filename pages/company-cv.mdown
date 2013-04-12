@@ -3,11 +3,9 @@ Cospired
 
 Always inspired by new web technologies and interesting web projects, the three IT engineers Dirk Haage, Jan Schmidle and Philipp Fehre founded cospired in January 2012. Driven by curiosity we love to use new web technologies and always try to push our boundaries.
 
-Combining the experience of the three founders, we support our customers in their journey into uncharted waters with our experience.
+Combining the experience of the three founders, we support our customers in developing great web applications and help them pushing the limits with new technologies.
 
-ihren projekten in dem sie neuland betreten und stehen ihnen mit unserer erfahrung zur seite
-
-We like to share our wisdom, so all three of us are also an active part of the Munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo Munich, Conference Organization like UX Munich (http://uxmunich.com) are some of the Munich based user groups we are involved.
+We like to share our wisdom, so all three of us are also an active part of the Munich developer scene. Ruby User Group Munich, Munich.js, MNUG (Munich Node User Group), Refresh Munich (Web UX User Group), GTUG (Google Technology User Group), coderdojo Munich, Conference Organization like UX Munich (http://uxmunich.com) are some of the Munich based user groups we are involved in during our spare time.
 
 It is our passion to work with people inspired by their ideas, help them to cooperatively evolve and finally translate those ideas to the code that drives them.
 
@@ -19,7 +17,7 @@ We specialize in
 - Workflow-Design
 - service- and object-oriented architectures
 
-Our practice in are based on
+Our methods to execute projects are based on
 
 - TDD (test driven development),
 - BDD (behavior driven development),
@@ -56,34 +54,36 @@ Before co-founding cospired, he worked at the TUM as a research assistant, while
 
   - Setting up a site-to-site network for Xavo AG
   - Study on possible consolidation of data centers via virtual machine live migration for Bundesagentur für Arbeit, Nürnberg
-  - Development of a high performance network monitoring system for Bundesagentur für Arbeit, Nürnberg in cooperation with the TUM
+  - Development of a high performance network monitoring system for Bundesagentur für Arbeit, Nürnberg in cooperation with the TU München
   - Development for inmexa.de
   - Development for the Amazon Facebook Fanpage
   - iOS and Backend Development for Grouptime
 
-He is also an active member of the OpenSource community, contributing to different Projects on Github, and talking about development related topics at Usergroups like Ruby Shift Munich and MunichJS.
+He is also an active member of the OpenSource community, contributing to different projects on Github, and talking about development related topics at user groups like Ruby Shift Munich and MunichJS.
 
 Dirk Haage
 ----------
 
-Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU Munich, he worked on several national and European research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
+Originally from Aachen, Dirk studied in Berlin and Madrid. He holds degrees in computer engineering and telematics. During his time as research associate at TU München, he worked on several national and European research projects as team leader and project manager. His area of research was computer network analysis and large-scale measurements.
 
 Prior to founding cospired, he worked freelance on multiple projects including tasks like
+
  - planning and execution of the IT infrastructure for companies with up to 600 work stations, (Hypovereinsbank, Pixelpark)
  - development of web services (during the pre web-API time) (log-n-go, jamba)
 
-His main field of work within cospired is workflow development with a focus on user interaction. Accompanied with a keen interest in UI Design and User experience, he keeps the user in the view and pushes the envelope of what the technologies can do.
+With a clear emphasis on the user, Dirks main field of work within cospired is workflow development with a focus on user interaction. Accompanied with a keen interest in UI Design and User experience, he always keeps the user in mind while pushing the envelope of what the technologies can do.
 
 Jan Schmidle
 ------------
-Always curious about the technologies driving the web, Jan was eager to learn what is behind the curtain and loved playing around with the different technologies involved. Grewing up in the beautiful area of Breisgau near the swiss and french border, he studied Computer-Networking in the heart of the black forest in the small city of Furtwangen. During his study he gained experience in the local junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department and worked on several smaller projects. He also worked as CTO of a small Hosting company based near Trier.
+Always curious about the technologies driving the web, Jan was eager to learn what is behind the curtain and loved playing around with the different technologies involved. Growing up in the beautiful area of Breisgau near the swiss and french border, he studied computer networking in the heart of the black forest in the small city of Furtwangen. During his study he gained experience in the local junior enterprise IBC e.V. (http://www.business-consulting.de/) in building up their IT-Department and worked on several smaller projects. He also worked as CTO of a small Hosting company based near Trier.
 
-Holding his degrees in Application Architecture he has a strong interest in IT-Security, High Availability and Service Architecture and likes to be part of the creative and inspiering comunities surrounding web based technologies.
+Holding his degrees in Application Architectures he has a strong interest in IT security, high availability and service architecture and likes to be part of the creative and inspiring communities surrounding web-based technologies.
 
 Before co-founding cospired GmbH he was freelancing as a developer for different agencies and projects.
-    - Lecturer on communication- and networktechnology at the DHBW in Horb.
-    - Research on clustering for web-hosting application (1and1)
-    - Analysis of web application filters WAF (Cirosec)
-    - Relaunch of DBBL - the german basketball league of the women
-    - Involved in several startups like a domain reselling platform and estimation of residual value of handys platform
-    - Certified commissioner for data protection (Datenschutzbeauftragter)
+
+ - Lecturer on communication and network technology at the DHBW in Horb.
+ - Research on clustering for web-hosting application (1and1)
+ - Analysis of web application filters WAF (Cirosec)
+ - Relaunch of DBBL web site – the german basketball league of the women
+ - Involved in several startups like a domain reselling platform and a platform for estimation of residual value of mobile phones
+ - Certified commissioner for data protection (Datenschutzbeauftragter)
