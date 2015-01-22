@@ -12,7 +12,6 @@
 # rake development (default so just run rake)
 # will run a stasis development server ready on port 3000 locally
 #
-# Author: Philipp Fehre Github: @sideshowcoder Twitter: @ischi
 
 require 'tmpdir'
 
